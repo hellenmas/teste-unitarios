@@ -1,10 +1,11 @@
-# teste-unitarioscc👀 Tarefas em Background com Node.js, Redis e Bull
-🎮️Sobre
-O projeto é um exemplo de API para cadastro de usuário executado através de fila de tarefa em background utilizando o Bull e Redis. Realizado dentro do bootcamp Node.js Web Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
+# 👀 Tarefas em Background com Node.js, Redis e Bull
 
-👨‍💻️ Tecnogias utilizadas
+##🎮️Sobre
+O projeto é um exemplo de uma API REST para o gerenciamento de estoques de cerveja,  através da prática do TDD. Realizado dentro do bootcamp java Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
+
+##👨‍💻️ Tecnogias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-💻️Javascript 💻️Visual Studio Code
+💻️Spring boot 💻️TDD
 
-Feito com ❤️ por hellenmassolin 👋️
+##Feito com ❤️ por hellenmassolin 👋️
