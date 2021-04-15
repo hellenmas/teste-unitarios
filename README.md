@@ -6,6 +6,6 @@ O projeto é um exemplo de uma API REST para o gerenciamento de estoques de cerv
 ## 👨‍💻️ Tecnogias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-💻️Spring boot 💻️TDD
+💻️Spring boot 
 
 ## Feito com ❤️ por hellenm
